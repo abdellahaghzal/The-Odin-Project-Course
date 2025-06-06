@@ -7,9 +7,9 @@
 [submodule "introduction/recipes"]
 	path = introduction/recipes
 	url = https://github.com/oxo4real/recipes.git
-[submodule "introduction/landing-page"]
-	path = introduction/landing-page
-	url = https://github.com/oxo4real/landing-page.git
 [submodule "introduction/calculator"]
 	path = introduction/calculator
 	url = https://github.com/oxo4real/calculator.git
+[submodule "introduction/landing-page"]
+	path = introduction/landing-page
+	url = git@github.com:abdellahaghzal/landing-page.git
